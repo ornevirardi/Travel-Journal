@@ -8,7 +8,7 @@ this app was created with React. The user can create a trips journal, simply by 
 
 ## DEMO:
 
-https://scrimba.com/scrim/co3c74263a48f4fa4eb81a56e
+https://traveljournalov.netlify.app/
 
 ## Dependencies:
 
